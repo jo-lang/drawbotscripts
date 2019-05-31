@@ -30,4 +30,4 @@ for f in range(frames):
         dia_y = dia * factor
         oval(-dia/2, -dia_y/2 + y_off, dia, dia_y)
         
-# saveImage('waves4.gif')
+# saveImage('waves.gif')

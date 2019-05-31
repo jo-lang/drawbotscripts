@@ -86,4 +86,4 @@ for i in range(steps):
     oval(-dot_s/2, -dot_s/2, dot_s, dot_s)
     oval(x-dot_s/2, y-dot_s/2, dot_s, dot_s)
 
-saveImage('sine.gif')
+# saveImage('sine.gif')
