@@ -31,4 +31,4 @@ A set of script to draw some classic optical illusions.
 ![wavy_checkerboard.py](imgs/wavy_checkerboard.gif)  
 
 ## wundt_illusion.py  
-![wundt_illusion.py](wundt_illusion.png)  
+![wundt_illusion.py](imgs/wundt_illusion.png)
