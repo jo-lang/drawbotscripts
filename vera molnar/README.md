@@ -1,6 +1,6 @@
 # Vera Molnar
 
-A bunch of scripts that generate images simlar to artworks by the early computer artist Vera Molnar.   
+A bunch of scripts that generate images similar to artworks by the early computer artist Vera Molnar.   
 The images are sometimes inspired by her art works and sometimes try to re-code an original as close as possible.
 See this nice [interview with Vera Molnar](https://vimeo.com/273642211) on vimeo.
 
